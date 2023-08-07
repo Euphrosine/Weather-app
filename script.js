@@ -1,7 +1,4 @@
-import apiKey from './config.js';
-
-
-const apiKey = ''; 
+const apiKey = '7a488ae3f2e98f02c1c4a3662a933357'; 
 const weatherForm = document.getElementById('weatherForm');
 const locationInput = document.getElementById('locationInput');
 const weatherDataContainer = document.getElementById('weatherData');
